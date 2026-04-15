@@ -1,0 +1,28 @@
+Worker,Sheet #,Time Taken (mins),Setup Time (mins),Total Stickers Applied,Time per Sticker (secs)
+Anna,1,7.24,0,154,2.82
+,2,9.54,2,154,3.71
+,3,9.1,2,154,3.54
+,4,9.35,2,154,3.64
+,5,12.04,3.5,154,4.69
+,6,9.23,2,154,3.59
+Amy,1,19.29,2.1,154,7.5155844155844145
+,2,19.4,2.03,154,7.558441558441558
+Madaline,1,12.58,0.75,154,4.901298701298701
+,2,14.15,1.25,154,5.512987012987013
+,3,15.5,0.75,154,6.038961038961039
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+Observations:,,,,,
+,,,,,
+"Variability in Efficiency: The manual sticker application process varies significantly among workers, affecting overall productivity.",,,,,
+"Setup Time Impact: Workers spend 2 to 3.5 minutes per sheet arranging packets and stickers, which adds to the total processing time.",,,,,
+Sticker Misalignment: Stickers are not always applied in a straight or parallel manner due to the manual process.,,,,,
+Missed Stickers: There is a high chance of some pouches missing stickers since the pouches are stuck together and need to be manually separated.,,,,,
+"Time per Sticker Variation: Time per sticker ranges from 2.82 seconds to 4.69 seconds, indicating inconsistencies that can be improved with process standardization.",,,,,
+"Glove Change Delays: Changing gloves adds additional time to the stickering process, affecting overall efficiency. ( Not Important )",,,,,
+"Retrieving New Packets: When workers run out of packets, it takes an additional 3.5 minutes to retrieve new ones from the rack and set them up.",,,,,
+"Worker Speed Differences: Some workers take significantly longer than others, highlighting the need for standardization and training.",,,,,
+"Lack of Automation: The process is entirely manual, making it prone to inefficiencies, errors, and variations in sticker placement.",,,,,
+"Need for Process Standardization: There are no clear guidelines or SOPs for stickering, leading to inconsistencies in speed and quality.",,,,,
